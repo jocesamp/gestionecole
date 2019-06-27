@@ -35,6 +35,7 @@ public class panel_main extends JPanel {
 	private JButton btnSuivant;
 	public panel_main() {
 		setLayout(null);
+		int c=23;
 		
 		panel_btnProf = new JPanel();
 		panel_btnProf.setLayout(null);
